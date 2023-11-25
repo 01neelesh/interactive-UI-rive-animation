@@ -13,4 +13,4 @@ A few resources to get you started if this is your first Flutter project:
 ## Acknowledgements
 
 Rive a powerful animation tool .
-![rive](https://rive.app/)
+(https://rive.app/)
